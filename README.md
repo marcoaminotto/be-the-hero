@@ -6,7 +6,7 @@ This is a project that I developed with the course "Semana Omnistack 11.0" made 
 ### Tecnologies
 * Node.js - Backend
 * React - Frontend
-* React Native - Mobile
+* React Native/Expo - Mobile
 * SQLite - Database
 
 # Installation
@@ -15,6 +15,20 @@ To run this project, download it to your computer or use the git command `git cl
 
 ### Backend
 
+* Open the folder be-the-hero/backend in your system's shell.
+* Run `$ npm install` to install the modules of this Node.js project.
+* Run `$ npm start` to start the backend server.
+
+
 ### Frontend
 
+* Open the folder be-the-hero/frontend in your system's shell.
+* Run `$ npm install` to install the modules of this React project.
+* Run `$ npm start` to start the frontend server.
+
+
 ### Mobile
+
+* Open the folder be-the-hero/mobile in your system's shell.
+* Run `$ npm install` to install the modules of this React Native project.
+* Run `$ npm start` to start the Expo development server.
