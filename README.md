@@ -32,3 +32,9 @@ To run this project, download it to your computer or use the git command `git cl
 * Open the folder be-the-hero/mobile in your system's shell.
 * Run `$ npm install` to install the modules of this React Native project.
 * Run `$ npm start` to start the Expo development server.
+
+#
+
+<p align="center">
+   <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
+</p>
